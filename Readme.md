@@ -6,6 +6,8 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 
 The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
+![essentia-luxury-hotel](https://user-images.githubusercontent.com/63037914/230209505-64491788-a69e-4dbf-bfc5-2ea85d133307.jpg)
+
 ## Research Question
 
 1. What are the variables that affect the hotel reservation cancellations?
